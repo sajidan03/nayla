@@ -563,7 +563,7 @@ text-rose-600
 
 >
 
-Dengan penuh cinta,
+{/* Dengan penuh cinta, */}
 
 </p>
 
